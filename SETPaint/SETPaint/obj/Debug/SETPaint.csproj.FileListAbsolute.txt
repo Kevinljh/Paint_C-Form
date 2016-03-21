@@ -1,0 +1,54 @@
+G:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+G:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+G:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.Form1.resources
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+G:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+D:\用户目录\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+D:\用户目录\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+D:\用户目录\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Form1.resources
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+D:\用户目录\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+E:\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+E:\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+E:\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.Form1.resources
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+E:\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Form1.resources
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+C:\Users\Jli1-cc\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+G:\year2semaster1\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+G:\year2semaster1\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+G:\year2semaster1\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+G:\year2semaster1\SETPaint\SETPaint\obj\Debug\SETPaint.myForm.resources
+E:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+E:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+E:\year2semaster1\windows application\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.myForm.resources
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+E:\year2semaster1\windows application\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
